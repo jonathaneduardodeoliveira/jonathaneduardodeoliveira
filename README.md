@@ -4,5 +4,4 @@
 - 💞️ Estou procurando colaborar em projetos de desenvolvimento Full Stack e programação em geral.
 - 📫 Como entrar em contato comigo: jonathan.mega2@gmail.com ou pelo telefone '11' 982399984.
 - 😄 Pronomes: ele/dele
-  - ⚡ Curiosidade: Tenho habilidades avançadas em informática, incluindo scripts com CMD e PowerShell, manutenção de sistemas operacionais, e navegação no Windows.
-  
+- ⚡ Curiosidade: Tenho habilidades avançadas em informática, incluindo scripts com CMD e PowerShell, manutenção de sistemas operacionais, e navegação no Windows.
