@@ -1,0 +1,94 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header img.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header .social-links {
+    margin-top: 10px;
+}
+
+header .social-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f4f4f4;
+    color: #333;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.projeto {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #eaeaea;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.projeto h3 {
+    margin-top: 0;
+}
+
+.projeto a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.projeto a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+}
