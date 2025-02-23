@@ -2,7 +2,7 @@
 
 🎯 **Objetivo Profissional:**  
 Jonathan Eduardo De Oliveira  
-Desenvolvedor Full Stack | React | Java | Spring Framework | MySQL | Git | GitHub
+Desenvolvedor Full Stack | <span lang="en">React</span> | <span lang="en">Java</span> | <span lang="en">Spring Framework</span> | MySQL | Git | GitHub
 
 ---
 
@@ -14,12 +14,12 @@ Desenvolvedor Full Stack | React | Java | Spring Framework | MySQL | Git | GitHu
 ---
 
 📜 **Cursos e Certificações:**  
-- Java - Plataforma Ada  
+- <span lang="en">Java</span> - Plataforma Ada  
   _(Curso finalizado com sucesso! Muito feliz por ter alcançado esse objetivo e empolgado para aplicar o conhecimento em projetos reais!)_
 - Power BI - Plataforma Ada
 - Lógica de Programação em C - PCDweb  
 - Lógica de Programação em C# - PCDweb  
-- Lógica de Programação em Python - professor Gustavo Guanabara)_  
+- Lógica de Programação em Python - PCDweb _(Estudo com o professor Gustavo Guanabara)_  
 - Git e GitHub - PCDweb  
 - Banco de Dados - PCDweb  
 
@@ -39,17 +39,78 @@ Desenvolvedor Full Stack | React | Java | Spring Framework | MySQL | Git | GitHu
 ---
 
 🛠 **Habilidades Técnicas:**  
-- **Programação:** Java | Spring Framework | C | Python | C# | HTML | CSS | JavaScript | React  
-- **Ferramentas:** Visual Studio 2022 | VS Code | IntelliJ IDEA | Git | GitHub | MySQL | Apache | PowerShell | CMD | DBeaver  
-- **Análise de Dados:** Power BI  
-- **Manutenção de Computadores:** Instalação e configuração de sistemas operacionais, recuperação de arquivos, configuração de redes e roteadores, troca de componentes de hardware  
-- **Acessibilidade:** Experiência com o leitor de tela NVDA, promovendo acessibilidade em sistemas e programas utilizados  
+Aqui estão algumas das ferramentas e linguagens que domino:
+
+### Linguagens que eu domino:
+
+#### <span lang="en">Java</span> | <span lang="en">Spring Framework</span> | <span lang="en">React</span> | C | Python | C# | HTML | CSS | JavaScript  
+
+- **Java**
+  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  
+- **Spring Framework**
+  ![Spring Icon](https://img.icons8.com/ios/50/000000/spring-logo.png)
+
+- **React**
+  ![React Icon](https://img.icons8.com/ios/50/000000/react-native.png)
+
+- **C**
+  ![C Icon](https://img.icons8.com/ios/50/000000/c-programming.png)
+
+- **Python**
+  ![Python Icon](https://img.icons8.com/ios/50/000000/python.png)
+
+- **C#**
+  ![C# Icon](https://img.icons8.com/ios/50/000000/c-sharp-logo.png)
+
+- **HTML**
+  ![HTML Icon](https://img.icons8.com/ios/50/000000/html-5.png)
+
+- **CSS**
+  ![CSS Icon](https://img.icons8.com/ios/50/000000/css3.png)
+
+- **JavaScript**
+  ![JavaScript Icon](https://img.icons8.com/ios/50/000000/javascript.png)
+
+---
+
+### Ferramentas que eu domino:
+
+- **Git**
+  ![Git Icon](https://img.icons8.com/ios/50/000000/git.png)
+
+- **GitHub**
+  ![GitHub Icon](https://img.icons8.com/ios/50/000000/github.png)
+
+- **Visual Studio 2022**
+  ![Visual Studio Icon](https://img.icons8.com/ios/50/000000/visual-studio.png)
+
+- **VS Code**
+  ![VS Code Icon](https://img.icons8.com/ios/50/000000/visual-studio-code.png)
+
+- **IntelliJ IDEA**
+  ![IntelliJ IDEA Icon](https://img.icons8.com/ios/50/000000/intellij-idea.png)
+
+- **MySQL**
+  ![MySQL Icon](https://img.icons8.com/ios/50/000000/mysql-logo.png)
+
+- **Apache**
+  ![Apache Icon](https://img.icons8.com/ios/50/000000/apache.png)
+
+- **PowerShell**
+  ![PowerShell Icon](https://img.icons8.com/ios/50/000000/powershell.png)
+
+- **CMD**
+  ![CMD Icon](https://img.icons8.com/ios/50/000000/command-line.png)
+
+- **DBeaver**
+  ![DBeaver Icon](https://img.icons8.com/ios/50/000000/dbeaver.png)
 
 ---
 
 🌟 **Destaques Profissionais:**  
 - +5 anos de experiência autônoma em TI, com foco em manutenção e suporte técnico  
-- Transição de hardware para desenvolvimento backend, com foco em **Java | Spring Framework**  
+- Transição de hardware para desenvolvimento backend, com foco em <span lang="en">Java</span> | <span lang="en">Spring Framework</span>  
 - Experiência sólida em lógica de programação e solução de problemas técnicos  
 
 ---
@@ -61,7 +122,7 @@ Tenho deficiência visual e estou em constante busca por maior acessibilidade em
 
 ## Projetos Java
 
-Aqui estão alguns dos meus projetos desenvolvidos em Java:
+Aqui estão alguns dos meus projetos desenvolvidos em <span lang="en">Java</span>:
 
 - [Projeto Ações Adatech](https://github.com/plasmus777/Projeto_Acoes_Adatech)
 - [Carros Para o Dia a Dia](https://github.com/jonathaneduardodeoliveira/CarrosParaODiaDia)
